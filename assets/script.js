@@ -54,8 +54,6 @@ function gerarSenha(){
         const senhaFinal = (senha[0] + senha[1] + senha[2] + senha[3] + senha[4] + senha[5] + senha[6] + senha[7] + senha[8] + senha[9]);
 
         document.querySelector("p").innerText = senhaFinal;
-
-        console.log(senhaFinal);
         break
     }
 }
