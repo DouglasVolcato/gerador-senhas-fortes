@@ -59,5 +59,3 @@ function gerarSenha(){
         break
     }
 }
-
-gerarSenha();
