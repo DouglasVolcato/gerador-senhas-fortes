@@ -1,0 +1,26 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    background-color: black;
+    color: white;
+    height: 90vh;
+    width: 90vw;
+}
+h1{
+    font-size: 4vw;
+}
+button{
+    font-size: 2vw;
+    padding: 0.8vw;
+    color: black;
+    background-color: wheat;
+}
+button:hover{
+    background-color: aqua;
+}
+p{
+    font-size: 3vw;
+}
